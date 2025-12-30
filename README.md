@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+Hi 👋 I’m Kaushal, a Backend Engineer building production-grade systems with Python, cloud-native architectures, and Generative AI.
+
 🔭 I’m currently working on <br>Building backend systems that integrate Generative AI into real-world workflows — including RAG pipelines, AI agents, automation frameworks, and cloud-native APIs using Python and AWS.<br><br>👯 I’m looking to collaborate on  <br>Backend-heavy projects involving GenAI systems, developer tools, automation platforms, or API-driven products where scalability and reliability matter.<br><br>🤝 I’m looking for help with  <br>Advanced system design patterns for AI-powered platforms, distributed systems, and production observability for GenAI workloads.<br><br>🌱 I’m currently learning  <br>System design for scalable backend services, deeper cloud architecture patterns (AWS/GCP), and improving reliability of LLM-powered systems in production.<br><br>💬 Ask me about  <br>Python backend development, FastAPI, RAG architectures, AI agents (LangChain/LangGraph), cloud deployment, and automation pipelines.<br><br>⚡ Fun fact  <br>I enjoy turning messy, manual workflows into clean automated systems — especially when AI is involved.<br>
 
 ## 🚀 What I Enjoy Building
