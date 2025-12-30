@@ -1,6 +1,12 @@
 # 💫 About Me:
 🔭 I’m currently working on  <br>Building backend systems that integrate Generative AI into real-world workflows — including RAG pipelines, AI agents, automation frameworks, and cloud-native APIs using Python and AWS.<br><br>👯 I’m looking to collaborate on  <br>Backend-heavy projects involving GenAI systems, developer tools, automation platforms, or API-driven products where scalability and reliability matter.<br><br>🤝 I’m looking for help with  <br>Advanced system design patterns for AI-powered platforms, distributed systems, and production observability for GenAI workloads.<br><br>🌱 I’m currently learning  <br>System design for scalable backend services, deeper cloud architecture patterns (AWS/GCP), and improving reliability of LLM-powered systems in production.<br><br>💬 Ask me about  <br>Python backend development, FastAPI, RAG architectures, AI agents (LangChain/LangGraph), cloud deployment, and automation pipelines.<br><br>⚡ Fun fact  <br>I enjoy turning messy, manual workflows into clean automated systems — especially when AI is involved.<br>
 
+## 🚀 What I Enjoy Building
+- Backend services that power AI-driven products
+- RAG and agent-based systems with real-world constraints
+- Automation frameworks that reduce manual effort and improve reliability
+- Cloud-native systems designed for scale and maintainability
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kaushalendra-pratap-singh-3aaab3136/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kaushalendrapratapsingh92) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushal.monkton@gmail.com) 
